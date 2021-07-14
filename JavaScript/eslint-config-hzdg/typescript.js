@@ -41,6 +41,7 @@ module.exports = {
       rules: {
         camelcase: 'error',
         '@typescript-eslint/camelcase': 'off',
+        '@typescript-eslint/explicit-function-return-type': 'off',
         'no-array-constructor': 'error',
         '@typescript-eslint/no-array-constructor': 'off',
         'no-unused-vars': 'error',
