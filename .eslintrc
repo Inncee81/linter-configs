@@ -1,5 +1,5 @@
 {
-  "extends": ["hzdg", "hzdg/jest"],
+  "extends": ["@rockefeller-center", "@rockefeller-center/eslint-config/jest"],
   "env": {
     "node": true
   }

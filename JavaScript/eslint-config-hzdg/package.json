@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-hzdg",
-  "version": "4.0.0",
+  "name": "@rockefeller-center/eslint-config",
+  "version": "4.0.1",
   "description": "HZ's ESLint config",
   "main": "index.js",
   "files": [
@@ -14,21 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hzdg/linter-configs.git"
+    "url": "git+https://github.com/Rockefeller-Center/linter-configs.git"
   },
-  "keywords": [
-    "eslint",
-    "prettier",
-    "config",
-    "hzdg",
-    "javascript"
-  ],
   "author": "John Trent (johnt@hzdg.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hzdg/linter-configs/issues"
+    "url": "https://github.com/Rockefeller-Center/linter-configs/issues"
   },
-  "homepage": "https://github.com/hzdg/linter-configs#readme",
+  "homepage": "https://github.com/Rockefeller-Center/linter-configs#readme",
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "@babel/preset-env": "^7.3.1",
